@@ -1,5 +1,5 @@
 # Sweetface
-## Reconocimiento facial - Es un login que se hace a traves de reconocimeinto facial.
+## Reconocimiento facial - Es un login que se hace a traves de reconocimiento facial.
 Al iniciar el programa, hay que ir a la opcion "Registo" y luego a la opcion "Registro facial". 
 Se toma la foto del usuario y luego se apreta la tecla "escape". 
 Con esto se guarda la foto en la carpeta del proyecto. 
